@@ -1,0 +1,6 @@
+online=False
+
+if online:
+    print("you are online")
+else :
+    print("you are offline")
